@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Mahrez</h1>
+<h1 align="center">Hi 👋, I'm Ibrahim Mohamed</h1>
 <h3 align="center">A Passionate Future Full Stack Web Developer from Egypt 🇪🇬</h3>
 
 ---
