@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **my  personal projects**
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
 - 👯 I’m looking to collaborate on **open source and web development projects**
-- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript**
+- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript , Sass ,Bootstrap**
 - 📫 How to reach me: **ibrahimmahrez726@gmail.com**
 - ⚡ Fun fact: **I love turning coffee ☕ into code**
 
@@ -36,7 +36,7 @@
 ---
 
 ### 📫 Connect With Me:
-- 📧 Email: [ibrahimmahrez@gmail.com](mailto:ibrahimmahrez726@gmail.com)
+- 📧 Email: [ibrahimmahrez726@gmail.com](mailto:ibrahimmahrez726@gmail.com)
 - 💼 LinkedIn: [Ibrahim Mohamed Haraz](https://www.linkedin.com/in/ibrahim-mohamed-haraz-95114a2ab/)
 
 ---
