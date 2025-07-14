@@ -1,51 +1,59 @@
-<h1 align="center" style="color:red;">🔥 Ibrahim Mohamed 🔥</h1>
-<h3 align="center" style="color:#f5f5f5; background-color:#111; padding:10px; border-radius:10px;">
-Full Stack Web Developer | MERN Stack Enthusiast 🇪🇬
-</h3>
-
----
-
-<div align="center" style="color:white; background-color:#000; padding:15px; border-radius:10px;">
-
-🔭 Currently working on <strong>Portfolio & Real Projects</strong>  
-🌱 Learning <strong>MERN Stack</strong>  
-💬 Ask me about <strong>Java, Python, HTML, CSS, JS</strong>  
-📫 Reach me at: <strong>ibrahimmahrez726@gmail.com</strong>  
-⚡ Fun fact: <em>Turning ☕ into code since day one</em>
-
-</div>
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<!-- Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Ibrahim+Mahrez;A+Passionate+Web+Developer;Learning+MERN+Stack;Love+Clean+Code+%F0%9F%92%AF" alt="Typing SVG" />
 </p>
 
 ---
 
+<!-- Personal Info -->
+### 🧑‍💻 About Me:
+- 👨‍🎓 Computer Science Student | Frontend → Full Stack Developer  
+- 💼 Currently working on: `My Portfolio`, `Personal Projects`, and `Open Source`
+- 📚 Learning: `React`, `Node.js`, `MongoDB`, `Express`, `Bootstrap`, `Sass`
+- ✨ Focused on writing clean and scalable code with great UI/UX
+- 🎯 Goal: To become a professional full stack developer
+
+---
+
+<!-- Skills -->
+### 🚀 Tech Stack:
+#### 💻 Languages & Frameworks:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimMahrez&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMahrez&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimMahrez&show_icons=true&theme=highcontrast" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IbrahimMahrez&theme=highcontrast" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMahrez&layout=compact&theme=highcontrast" width="49%" />
 </p>
 
 ---
 
-### 🔗 Contact Me:
-- 📧 Email: [ibrahimmahrez726@gmail.com](mailto:ibrahimmahrez726@gmail.com)
-- 💼 LinkedIn: [Ibrahim Mohamed Haraz](https://www.linkedin.com/in/ibrahim-mohamed-haraz-95114a2ab/)
+<!-- Contact -->
+### 📬 Connect with Me:
+<p align="left">
+  <a href="mailto:ibrahimmahrez726@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ibrahim-mohamed-haraz-95114a2ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-<p align="center" style="color:red;">🔥 “Code like a beast, debug like a ninja.” 🔥</p>
+<!-- Quote -->
+<p align="center" style="color:red;">
+  🚀 "Code is like humor. When you have to explain it, it’s bad." – Cory House
+</p>
