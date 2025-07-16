@@ -7,6 +7,7 @@
 ---
 
 <!-- Personal Info -->
+
 ### 🧑‍💻 About Me:
 - 👨‍🎓 Computer Science Student | Frontend → Full Stack Developer  
 - 💼 Currently working on: `My Portfolio`, `Personal Projects`, and `Open Source`
