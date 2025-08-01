@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me:
 - 👨‍🎓 Computer Science Student | Frontend → Full Stack Developer  
 - 💼 Currently working on: `My Portfolio`, `Personal Projects`, and `Open Source`
-- 📚 Learning: `React`, `Node.js`, `MongoDB`, `Express`, `Bootstrap`, `Sass`
+- 📚 Learning: `Angular`, `Node.js`, `MongoDB`, `Express`, `Bootstrap`, `Sass`
 - ✨ Focused on writing clean and scalable code with great UI/UX
 - 🎯 Goal: To become a professional full stack developer
 
