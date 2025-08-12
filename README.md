@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://ibrahimmahrez.github.io/ibrahim-protofilo/" target="_blank">
+  <a href="https://ibarhim-protoflio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-24292e?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
