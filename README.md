@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ibrahim+Mahrez+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;MEAN+Stack+Enthusiast+%F0%9F%9A%80;Building+Amazing+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ibrahim+Mahrez+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Amazing+Web+Apps+%F0%9F%9A%80;Clean+Code+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
