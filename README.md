@@ -13,7 +13,7 @@
 <!-- Personal Info -->
 ### 🧑‍💻 About Me:
 
-- 👨‍🎓 Computer Science Student | Frontend → Full Stack Developer
+- 👨‍🎓 Computer Science Student |  Full Stack Developer
 - 💼 Currently working on: `My Portfolio`, `Personal Projects`, and `Open Source`
 - 📚 Learning: `Angular`, `Node.js`, `MongoDB`, `Express`, `TypeScript`, `Docker`
 - ✨ Focused on writing clean and scalable code with great UI/UX
@@ -73,11 +73,22 @@
 
 ---
 
-<!-- Trophies -->
-### 🏆 GitHub Trophies:
+<!-- Featured Projects -->
+### 💼 Featured Projects:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IbrahimMahrez&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <a href="https://github.com/IbrahimMahrez/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimMahrez&repo=project-1&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/IbrahimMahrez/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimMahrez&repo=project-2&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/IbrahimMahrez?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
