@@ -76,20 +76,17 @@
 <!-- Featured Projects -->
 ### 💼 Featured Projects:
 
-<p align="center">
-  <a href="https://github.com/IbrahimMahrez/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimMahrez&repo=project-1&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/IbrahimMahrez/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimMahrez&repo=project-2&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/IbrahimMahrez?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IbrahimMahrez&repo=IbrahimMahrez&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/IbrahimMahrez/IbrahimMahrez)
+
+<br/>
+
+<a href="https://github.com/IbrahimMahrez?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Projects-FF4D5A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
