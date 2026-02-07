@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMahrez&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahimMahrez&theme=redical&hide_border=true&bg_color=0D1117&color=FF4D5A&line=FF4D5A&point=FFFFFF" width="49%" />
 </p>
 
@@ -77,9 +77,6 @@
 ### 💼 Featured Projects:
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IbrahimMahrez&repo=IbrahimMahrez&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/IbrahimMahrez/IbrahimMahrez)
-
 <br/>
 
 <a href="https://github.com/IbrahimMahrez?tab=repositories">
