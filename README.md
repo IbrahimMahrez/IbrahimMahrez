@@ -18,7 +18,7 @@
 - 📚 Learning: `Angular`, `Node.js`, `MongoDB`, `Express`, `TypeScript`, `Docker`
 - ✨ Focused on writing clean and scalable code with great UI/UX
 - 🎯 Goal: To become a professional full stack developer
-- 🌍 Based in Cairo, Egypt
+- 🌍 Based in Alexandria, Egypt
 - 📫 Reach me at: **ibrahimmahrez726@gmail.com**
 
 ---
