@@ -15,7 +15,7 @@
 
 - 👨‍🎓 Computer Science Student |  Full Stack Developer
 - 💼 Currently working on: `My Portfolio`, `Personal Projects`, and `Open Source`
-- 📚 Learning: `Angular`, `Node.js`, `MongoDB`, `Express`, `TypeScript`, `Docker`
+- 📚 Learning: `Angular`, `Node.js`, `MongoDB`, `Express`, `TypeScript`, `Docker`,`React`
 - ✨ Focused on writing clean and scalable code with great UI/UX
 - 🎯 Goal: To become a professional full stack developer
 - 🌍 Based in Alexandria, Egypt
